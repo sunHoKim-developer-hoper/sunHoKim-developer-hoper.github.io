@@ -22,7 +22,7 @@ url     : https://sunhokim-developer-hoper.github.io/
 baseurl : ""# does not include hostname
 title   : My Page
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  developer-hoper
 
 
 ## => Language and Timezone
